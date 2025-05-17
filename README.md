@@ -2,7 +2,7 @@
 
 Brant is a foundation model in the field of intracranial recordings, which learns powerful representations of intracranial neural signals.
 
-<img src="./figs/logo-05.png" alt="logo-05" style="zoom:5%;" />
+<!-- <img src="./figs/logo-05.png" alt="logo-05" style="zoom:5%;" /> -->
 
 ### News
 
