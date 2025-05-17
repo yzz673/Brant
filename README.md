@@ -2,13 +2,13 @@
 
 Brant is a foundation model in the field of intracranial recordings, which learns powerful representations of intracranial neural signals.
 
-<img src="/Users/zdz/Downloads/logo-05.png" alt="logo-05" style="zoom:5%;" />
+<img src="./figs/logo-05.png" alt="logo-05" style="zoom:5%;" />
 
 ### News
 
-[2025.05.17] We have uploaded the model code on [HuggingFace](https://huggingface.co/Daoze/Brant). Now anyone can access the finetuning code without sending email to the authors!
+- [2025.05.17] We have uploaded the model code on [HuggingFace](https://huggingface.co/Daoze/Brant). Now anyone can access the finetuning code without sending email to the authors!
 
-[2024.05.08] Due to the request from our collaboration partner, we are temporarily unable to directly share our code publicly. If you require access, please contact zhangdz@zju.edu.cn.
+- [2024.05.08] Due to the request from our collaboration partner, we are temporarily unable to directly share our code publicly. If you require access, please contact zhangdz@zju.edu.cn.
 
 
 ### Abstract
@@ -20,14 +20,14 @@ Brant is a foundation model for modeling intracranial recordings, which learns p
 ### Model Scale
 Brant is the largest model on brain signals and pre-trained on a large intracranial dataset collected by us. As shown in the figure below, Brant contains over 500M parameters, far more than other existing works on brain signals.
 
-<img src="/Users/zdz/Downloads/scale_compare.png" alt="scale_compare" style="zoom: 67%;" />
+<img src="./figs/scale_compare.png" alt="scale_compare" style="zoom: 67%;" />
 
 
 
 ### Performance
 The figure below summarizes the results of all the downstream tasks, including neural signal forecasting, frequency-phase forecasting, imputation and seizure detection. As a foundation model for intracranial recordings, compared with other baselines, Brant achieves consistent SOTA performance on a variety of tasks w.r.t. several medical scenarios, showing the great potential in neural recordings modeling.
 
-![overall_res](/Users/zdz/Downloads/overall_res.png)
+![overall_res](./figs/overall_res.png)
 
 
 
