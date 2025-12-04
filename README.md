@@ -6,6 +6,8 @@ Brant is a foundation model in the field of intracranial recordings, which learn
 
 ### News
 
+- [2025.12.04] Considering that some users still have questions about the spectrum power calculation described in the paper, we have updated the code with the calculation process we designed for reference. Please refer to `pretrain/pre_utils` in HuggingFace.
+
 - [2025.05.17] We have uploaded the model code on [HuggingFace](https://huggingface.co/Daoze/Brant). Now anyone can access the finetuning code without sending email to the authors!
 
 - [2024.05.08] Due to the request from our collaboration partner, we are temporarily unable to directly share our code publicly. If you require access, please contact zhangdz@zju.edu.cn.
